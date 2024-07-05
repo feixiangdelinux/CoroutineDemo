@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CoroutineDemo"
 include(":app")
+include(":AliyunPlayerLibrary")
